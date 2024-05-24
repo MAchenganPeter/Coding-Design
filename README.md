@@ -6,4 +6,4 @@
 df = pd.read_csv('')
 ```
 
-![GITHUB]( https://www.google.com/url?sa=i&url=https%3A%2F%2Fsports.ettoday.net%2Fnews%2F2744843&psig=AOvVaw0FCA8e6F5ot5Ejr_tGjOmL&ust=1716629945968000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiir4P_pYYDFQAAAAAdAAAAABAE "圖片名稱")
+![GITHUB]( https://cdn2.ettoday.net/images/7659/d7659125.jpg "圖片名稱")
