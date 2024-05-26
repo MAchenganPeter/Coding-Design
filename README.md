@@ -32,6 +32,7 @@ d1 = {'Land': ['開始','土地1','土地2','土地3','土地4','休息站','土
 
 df = pd.DataFrame(data=d1)
 ```
+
 'Land'：各土地用途。
 'Money1'：空地價格。
 'Tolls1'：土地過路費。
@@ -44,6 +45,30 @@ df = pd.DataFrame(data=d1)
 'Owner2'：屋主。
 
 
+## 執行程式
+
+● 執行 Monopoly.ipynb 檔案。
+
+● Ownland.py：土地資訊。
+
+● Player.py：玩家資訊。
 
 
+## 資料分析素材
+
+```python
+d2 = {'Play_Time':times, 'Player':player1, 'Dice':dice, 'Position':position, 'Buy_or_not':yes_no, 'Before_money':money1, 'Pay':paid, 'After_money':money2, 'Owner':own, 'Count_winner':winer}
+df1 = pd.DataFrame(data=d2)
+```
+
+'Play_Time'：玩的次數。
+'Player'：玩家。
+'Dice'：兩顆骰子數值。
+'Position'：玩家位置。
+'Buy_or_not'：是否要購買。
+'Before_money'：上一輪所剩餘的金額。
+'Pay'：支付費用。
+'After_money'：此輪後所剩餘的金額。
+'Owner'：地主/屋主。
+'Count_winner'：玩家、此輪後所剩餘的金額。
 
