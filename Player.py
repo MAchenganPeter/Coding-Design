@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class player:
     def __init__(self, money = 70000, po = 0):
         self.__money = money
@@ -26,10 +20,6 @@ class player:
         
     def getPo(self):
         return self.__po
-
-
-# In[ ]:
-
 
 
 
